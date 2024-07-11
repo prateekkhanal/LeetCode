@@ -6,5 +6,6 @@ All of the LeetCode Problems that I submitted will be pushed to this repo!
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/prateekkhanal/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/prateekkhanal/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
